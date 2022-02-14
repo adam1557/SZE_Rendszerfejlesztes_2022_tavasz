@@ -1,1 +1,0 @@
-Ebbe a mappába azon anyagok tölthetők fel, amelyek valamely adatbázis környezetben lettek megvalósítva. Pl:(MSSQL, MySQL, SQLite stb.)
