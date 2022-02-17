@@ -1,6 +1,6 @@
 *Könyvtári rendszer*
 
-*Megrendelő: Széchényi Egyetem Könyvtára
+*Megrendelő: Széchenyi Egyetem Könyvtára
 **Követelmények
 ***könyv kölcsönzés, könyvet kölcsönző személyek kezelése
 
