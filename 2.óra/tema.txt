@@ -1,1 +1,19 @@
-*A második tanórán elhangzott témák helye*
+*Könyvtári rendszer*
+
+*Megrendelő: Széchényi Egyetem Könyvtára
+**Követelmények
+***könyv kölcsönzés, könyvet kölcsönző személyek kezelése
+
+**Folyamatok
+
+**Szolgáltatások(Felhasználók számára elérhető)
+***Kölcsönzés
+***Selejtek eladása
+***Könyvek keresése
+***Időpont foglalás
+****Számítógép
+****Nyomtatás / Szkennelés
+
+**Támogató funkciók(Dolgozók számára elérhető)
+***Felhasználó nyilvántartási rendszer
+***Könyv visszavételezése
