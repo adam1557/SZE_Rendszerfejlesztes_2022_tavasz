@@ -15,5 +15,5 @@
 ****Nyomtatás / Szkennelés
 
 **Támogató funkciók(Dolgozók számára elérhető)
-***Felhasználó nyilvántartási rendszer
+***Felhasználó és könyv nyilvántartási rendszer
 ***Könyv visszavételezése
