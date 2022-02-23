@@ -1,0 +1,1 @@
+Ebbe a mappába az adatbázis környezetekkel készült megoldások tölthetőek fel.
