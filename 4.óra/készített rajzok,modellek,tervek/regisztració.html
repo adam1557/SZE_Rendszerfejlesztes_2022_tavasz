@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+
+.container {
+  padding: 16px;
+  background-color: white;
+}
+
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+
+.registerbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+}
+
+
+a {
+  color: dodgerblue;
+}
+
+
+.signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<form action="/action_page.php">
+  <div class="container">
+  
+  
+  <div class="topnav">
+  <a class="active" href="#home">Regisztráció</a>
+  <a href="#news">Kölcsönzés</a>
+  <a href="#contact">Kapcsolatok</a>
+  <a href="#about">Rólunk</a>
+</div>
+  
+  <img src="https://eszk.sze.hu/images/ARCULAT/Logok/sze_logo_fekvo_RGB_white_bg.png" alt="logo" style="width:30%;height:30%;">
+  
+    <h1>Regisztráció</h1>
+    <p align = justify>Regisztráció a könyvtári szolgáltatások igénybevételéhez. Az alábbi regisztrációs forma kitöltésével a hallgatónak lehetősége nyílik a könyvtári szolgáltatások igénybevételére. A könyvtári szolgáltatások használatbavételének alapfeltétele dolgozói kártya, aktív hallgatói jogviszony és hallgatói kártya</p>
+    <hr>
+
+    <label for="email"><b>E-mail</b></label>
+    <input type="text" placeholder="Adja meg az elektronikus postáját..." name="email" id="email" required>
+    
+    <label for="email"><b>Hallgatói azonosító/Neptun-kód</b></label>
+    <input type="text" placeholder="Adja meg a Neptun-kódját..." name="neptunk" id="neptunk" required>
+
+    <label for="psw"><b>Jelszó</b></label>
+    <input type="password" placeholder="Írja be a jelszavát..." name="pass" id="psw" required>
+
+    <label for="psw-repeat"><b>Jelszó megismétlése</b></label>
+    <input type="password" placeholder="Írja be a jelszavát..." name="psw-repeat" id="psw-repeat" required>
+    <hr>
+    <p>A regisztráció véglegesítésével kijelenti hogy, elfogadja a <a href="#">felhasználói feltételeket</a>.</p>
+
+    <button type="submit" class="registerbtn">Regisztráció</button>
+  </div>
+  
+  <div class="container signin">
+    <p>Már rendelkezik érvényes regisztrációval ? <a href="#">Bejelentkezés</a>.</p>
+  </div>
+</form>
+
+</body>
+</html>
