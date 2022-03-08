@@ -1,0 +1,1 @@
+Ebbe a mappába a valamilyen adatbázis környezettel készült anyagok tölthetők fel.
