@@ -2,7 +2,7 @@
 Ez a repository a Széchenyi István Egyetem: Rendszerfejlesztés nevezetű és GKNB_INTM011 tárgykódú tárgyával kapcsolatos órai feladatmegoldásokat tartalmazza.
 
 
-Moodle:  [->KATT<-](https://szelearning.sze.hu/course/view.php?id=3159)
+Moodle(Szelearning):  [->KATT<-](https://szelearning.sze.hu/course/view.php?id=3159)
 
 
 
