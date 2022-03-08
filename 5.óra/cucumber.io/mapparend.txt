@@ -1,1 +1,1 @@
-Ebbe a mappába a cucumber.io-val készült anyagok tölthetők fel.
+Ebbe a mappába a cucumber.io-val készült anyagok tölthetőek fel.
