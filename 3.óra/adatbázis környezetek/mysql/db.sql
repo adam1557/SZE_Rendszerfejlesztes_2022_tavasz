@@ -1,3 +1,4 @@
+/* By: Karcag Tamas (DT0QPB) */
 /* Database */
 drop database if exists library;
 create database library collate utf8mb4_hungarian_ci;
